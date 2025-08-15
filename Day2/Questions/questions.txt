@@ -1,0 +1,7 @@
+1.	Create a Student class with the attributes name, roll_no, year, and course. Write setter and getter methods for all the attributes. Print the parameter values after setting them with appropriate values.
+
+2.	Take an array as input from the user. Search a given number x and print the value and index at which it occur.
+
+3.	Create classes such as Product, Cart and Order to simulate an online shopping system. Implement methods to add products to a cart, calculate the total cost and process payments. 
+
+4.	Write a program that creates two classes one is Measurement and another is the main method class. Measurement class contain km, meter, milimeter in decimal and a constructor and three methods; first method will return the round off kilometer, the second method will return the round off meter and third method will return the round off milimeter. Takes the values and display them.
