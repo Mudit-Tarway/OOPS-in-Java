@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class bank {
     private String accNo;
     private String accHolderName;
