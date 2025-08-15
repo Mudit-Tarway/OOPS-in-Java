@@ -1,6 +1,4 @@
-package Day2.Code;
-
-import java.util.*;
+// package Day2.Code;
 class Student {
     private String name;
     private int roll_no;
