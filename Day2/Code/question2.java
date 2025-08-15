@@ -18,6 +18,7 @@ public class question2 {
         }else{
             System.err.println("Element "+findElement+" is at index "+index);
         }
+        sc.close();
     }
 
     public static int findElementinArray(int arr[] , int findElement){
