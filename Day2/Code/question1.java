@@ -1,4 +1,4 @@
-// package Day2.Code;
+package Day2.Code;
 class Student {
     private String name;
     private int roll_no;
