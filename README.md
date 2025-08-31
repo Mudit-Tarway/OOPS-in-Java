@@ -10,7 +10,7 @@ Each week, new problems are added along with their solutions, showcasing concept
 
 **📂 Repository Structure**
 
-OOPS-Java-Lab/
+OOPS-Java-Lab/<br>
 │
 ├── Week-1/<br>
 │   ├── Question1
