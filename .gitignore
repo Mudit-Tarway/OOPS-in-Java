@@ -11,3 +11,7 @@ question3.class
 Product.class
 Cart.class
 Order.class
+Manager.class
+Person.class
+Salary.class
+Member.class
