@@ -1,0 +1,28 @@
+Question1.
+
+Create a class named 'Member' having the following members: 
+Data members: 
+1.  Name 
+2.  Age 
+3.  Phone number 
+4.  Address 
+5.  Salary 
+It also has a method named 'printSalary' which prints the salary of the members. 
+Two classes 'Employee' and 'Manager' inherits the 'Member' class. The 'Employee' and 'Manager' 
+classes have data members 'specialization' and 'department' respectively. Now, assign name, age, 
+phone number, address and salary to an employee and a manager by making an object of both of 
+these classes and print the same. 
+
+
+
+Question2.
+
+Create a class ‘Account’ with two overloaded constructors. The first constructor is used for 
+initializing the name of the account holder, the account number, the account type and the initial 
+amount in the account.The second constructor is used for initializing the name of the account 
+holder, the account number, the account type, addresses, type of account and current balance. The 
+account type, whether “Savings Account” or “Current Account” can be set based on the input 1 or 
+2 respectively. The Account class is havingthe member functionsdisplayName() to display the 
+details of the account, deposit() which is used to deposit the amount, withdraw() which is used to 
+remove the amount from the balance amount, and check_balance() which is used to display the 
+balance after deposit and withdraw amounts. Create objects of Account class and use them. 
