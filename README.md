@@ -12,23 +12,23 @@ Each week, new problems are added along with their solutions, showcasing concept
 
 OOPS-Java-Lab/
 │
-├── Week-1/
+├── Week-1/<br>
 │   ├── Question1
 │   ├── Question2
 │   └── Question3
 │
-├── Week-2/
+├── Week-2/<br>
 │   ├── Question1
 │   ├── Question2
 │   └── Question3
 │   └── Question4
 │
-├── Week-3/
+├── Week-3/<br>
 │   └──  Question1
 │   └──  Question2
 │
-└── README.md
-└── .gitignore
+└── README.md<br>
+└── .gitignore<br>
 
 
 
